@@ -183,13 +183,8 @@ export default function ElectricianCostMelbourne() {
               );
             })}
 
-            {/* Coming soon stubs */}
+            {/* Coming soon stub */}
             {[
-              {
-                label: "Ceiling Fan Installation Cost Melbourne",
-                slug: "ceiling-fan-installation-cost-melbourne",
-                price: "$120–$350",
-              },
               {
                 label: "Safety Switch Installation Cost Melbourne",
                 slug: "safety-switch-installation-cost-melbourne",
