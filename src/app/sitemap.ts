@@ -1,4 +1,6 @@
 import type { MetadataRoute } from "next";
+
+export const dynamic = "force-static";
 import { ALL_JOBS } from "@/lib/jobs";
 
 const BASE_URL = "https://tradiecost.com.au";
